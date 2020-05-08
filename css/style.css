@@ -1,0 +1,104 @@
+body {
+  width: 850px;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 2em;
+}
+hgroup {
+  width: 425px;
+  float: left;
+}
+header {
+  padding-top: 40px;
+}
+#fork {
+  float: left;
+  margin-right: 3px;
+}
+#smlogo {
+  height:70px;
+  border: 20px solid transparent;
+  padding: 10px;
+
+  
+  border-image:url(https://raw.githubusercontent.com/codefellows/seattle-201d63/master/class-10/lab/chocolate-pizza/hr-img.png) 100 repeat;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  
+  margin-bottom: 20px;
+}
+.logos{
+  float:right;
+  margin: 1px;
+}
+#main {
+  width: 850px;
+  margin: 10px 0 10px 0;
+}
+#print {
+  float: right;
+  height: 10px;
+  margin-top: 30px;
+}
+h2 {
+  font-size: 2em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+
+
+#print h4 {
+  display: inline;
+}
+
+p {
+  margin: 20px;
+  text-indent: 30px;
+}
+#list {
+  background-image: url("https://raw.githubusercontent.com/codefellows/seattle-201d63/master/class-10/lab/chocolate-pizza/list-bg.png");
+  height: 305px;
+}
+ul {
+  line-height: 2em;
+  font-family: fantasy;
+}
+li {
+  list-style-type: square;
+}
+#left {
+  display: inline;
+  float: left;
+  padding: 20px;
+  padding-left: 80px;
+}
+#right {
+  display: inline;
+  float: right;
+  padding-right: 100px;
+  padding-top: 20px;
+}
+#writer {
+  float: left;
+}
+footer p {
+  line-height: 1.3em;
+  width: 500px;
+  text-indent: 0;
+  float: left;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+#footer {
+  height: 100px;
+}
+button {
+  float: right;
+  width: 150px;
+  padding: 10px;
+  color: white;
+  background-color: orangered;
+}
+
