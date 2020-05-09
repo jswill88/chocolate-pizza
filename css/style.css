@@ -100,7 +100,7 @@ p {
 }
 #list {
   background-image: url("https://raw.githubusercontent.com/codefellows/seattle-201d63/master/class-10/lab/chocolate-pizza/list-bg.png");
-  height: 310px;
+  height: 300px;
   margin-bottom: 30px;
 }
 ul {
@@ -120,13 +120,13 @@ input {
 }
 
 #left {
-  display: inline;
+  /* display: inline; */
   float: left;
   padding: 20px;
   padding-left: 80px;
 }
 #right {
-  display: inline;
+  /* display: inline; */
   float: right;
   padding-right: 100px;
   padding-top: 20px;
